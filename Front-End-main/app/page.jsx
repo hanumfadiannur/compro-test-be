@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import Carousel from '@/components/Carousel';
 import ShopByRoom from '@/components/Homepage/ShopByRoom';
 import ShopByFabrics from '@/components/Homepage/ShopByFabrics';
